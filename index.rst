@@ -19,7 +19,6 @@ To download Simba and view screenshots see :ref:`download` and
     -   :ref:`whatis`
     -   :ref:`download`
     -   :ref:`documentation-ref`
-    -   :ref:`download`
     -   :ref:`bugs`
     -   :ref:`tools`
     -   :ref:`screenshots`
