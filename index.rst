@@ -121,8 +121,8 @@ Documentation
 =============
 
 The documentation_ contains a lot of valuable information about Simba and
-essential for both the starting and advanced programmer. It contains tutorials,
-API references and design documentation.
+is essential for both the starting and advanced programmer. It contains
+tutorials, API references and design documentation.
 
 .. _source:
 
