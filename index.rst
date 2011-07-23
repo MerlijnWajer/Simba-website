@@ -107,8 +107,6 @@ Look at this link_ for older releases of Simba.
 
 .. _link: http://simba.villavu.com/bin/Release/
 
-.. _documentation-ref:
-
 
 What's next?
 ------------
@@ -116,6 +114,7 @@ What's next?
 A good guide on how to continue is found `on Simba's documentation
 <http://docs.villavu.com/simba/gettingstarted.html>`_.
 
+.. _documentation-ref:
 
 Documentation
 =============
