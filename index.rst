@@ -20,10 +20,10 @@ To download Simba and view screenshots see :ref:`download` and
     -   :ref:`whatis`
     -   :ref:`download`
     -   :ref:`documentation-ref`
+    -   :ref:`releases`
+    -   :ref:`screenshots`
     -   :ref:`bugs`
     -   :ref:`tools`
-    -   :ref:`screenshots`
-
 
 News
 ====
