@@ -41,7 +41,7 @@ Bugs fixed:
         ( Resolves `Bug #307 <http://bugs.villavu.com/view.php?id=307>`_,
         `Bug #299 <http://bugs.villavu.com/view.php?id=299>`_ and
         `Bug #288 <http://bugs.villavu.com/view.php?id=288>`_ )
-    -   HTTPS support when openssl is intalled.
+    -   HTTPS support when openssl is installed.
         (Resolves  `Bug #295 <http://bugs.villavu.com/view.php?id=295>`_ )
     -   Added Log10, even though we already had LogN.
     -   Extension updates, mainly to the paster extension.
