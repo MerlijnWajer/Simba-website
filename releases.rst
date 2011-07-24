@@ -11,7 +11,7 @@ See :ref:`download` to get it.
 Simba 0.97-rc4 (Development Release)
 ------------------------------------
 
-Download: `Simba -0.97-rc4
+Download: `Simba-0.97-rc4
 <http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
 
 Changes since the stable release include (but are not limited to!):
