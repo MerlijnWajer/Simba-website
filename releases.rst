@@ -73,7 +73,7 @@ WARNING and ERROR directives
 Simba 0.96 (Stable Release)
 ---------------------------
 
-Download: `Simba -0.96
+Download: `Simba-0.96
 <http://simba.villavu.com/bin/Release/0.96rc/SimbaInstaller.exe>`_.
 
 Changes:
