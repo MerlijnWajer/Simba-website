@@ -17,7 +17,7 @@ Download: `Simba -0.97-rc4
 Changes since the stable release include (but are not limited to!):
 
     -   `WARNING and ERROR directives`_
-    -   Initial `External Editor <http://docs.wizzup.org/simba/features/ui.html#read-only-external-editor-mode>`_ / Read-Only mode support.
+    -   Initial `External Editor <http://docs.villavu.com/simba/features/ui.html#read-only-external-editor-mode>`_ / Read-Only mode support.
     -   Added two global keybindings. Ctrl+Alt+R and Ctrl+Alt+P. Their effect is starting the script and launching the colour picker, respectively.
     -   Started work to make Simba more modular.
     -   Documentation updates.
