@@ -6,13 +6,13 @@ Simba Releases
 The current stable release is Simba 0.96.
 See :ref:`download` to get it.
 
-.. _simba-0.97-rc4:
+.. _simba-0.97-rc5:
 
-Simba 0.97-rc4 (Development Release)
+Simba 0.97-rc5 (Development Release)
 ------------------------------------
 
-Download: `Simba-0.97-rc4
-<http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
+Download: `Simba-0.97-rc5
+<http://simba.villavu.com/bin/Release/0.97-rc5/SimbaInstaller.exe>`_.
 
 Changes since the stable release include (but are not limited to!):
 
@@ -45,6 +45,8 @@ Bugs fixed:
         (Resolves  `Bug #295 <http://bugs.villavu.com/view.php?id=295>`_ )
     -   Added Log10, even though we already had LogN.
     -   Extension updates, mainly to the paster extension.
+    -   INCLUDE_ONCE support didn't work properly. (After the initial fix)
+    -   Bug in paster extension. (StrToInt -> StrToIntDef)
 
 Installer notes:
 

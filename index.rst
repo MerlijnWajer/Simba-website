@@ -28,12 +28,12 @@ To download Simba and view screenshots see :ref:`download` and
 News
 ====
 
-Simba 0.97-rc4 (Development Release)
+Simba 0.97-rc5 (Development Release)
 ------------------------------------
 
-The latest development release of simba is *Simba-0.97-rc4*.
-It can be found here: `Simba -0.97-rc4
-<http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
+The latest development release of simba is *Simba-0.97-rc5*.
+It can be found here: `Simba -0.97-rc5
+<http://simba.villavu.com/bin/Release/0.97-rc5/SimbaInstaller.exe>`_.
 
 For more information see the :ref:`releases` page: :ref:`simba-0.97-rc4`.
 
