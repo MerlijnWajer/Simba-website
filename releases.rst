@@ -14,8 +14,8 @@ Simba 0.97-rc6 (Development Release)
 Download: `Simba-0.97-rc6
 <http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
 
-Simba 0.97-rc6 is probably the last release candidate before Simba 0.97 is
-released.
+Simba 0.97-rc6 is probably the second to last release candidate before
+Simba 0.97 is released.
 
 Changes since the stable release include (but are not limited to!):
 
