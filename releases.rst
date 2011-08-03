@@ -3,29 +3,23 @@
 Simba Releases
 ==============
 
-The current stable release is Simba 0.96.
+The current stable release is Simba 0.97.
 See :ref:`download` to get it.
 
-.. _simba-0.97-rc6:
+Simba 0.97 (Stable Release)
+---------------------------
 
-Simba 0.97-rc6 (Development Release)
-------------------------------------
+Download: `Simba-0.97
+<http://simba.villavu.com/bin/Release/0.97/SimbaInstaller.exe>`_.
 
-Download: `Simba-0.97-rc6
-<http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
-
-Simba 0.97-rc6 is probably the second to last release candidate before
-Simba 0.97 is released.
-
-Changes since the stable release include (but are not limited to!):
+Changes since :ref:`simba-0.96` include (but are not limited to!):
 
     -   `WARNING and ERROR directives`_
     -   Initial `External Editor <http://docs.villavu.com/simba/features/ui.html#read-only-external-editor-mode>`_ / Read-Only mode support.
     -   Added two global keybindings. Ctrl+Alt+R and Ctrl+Alt+P. Their effect is starting the script and launching the colour picker, respectively.
     -   Documentation updates.
         (  special thanks to `Echo_ <http://villavu.com/forum/showpost.php?p=788000&postcount=2>`_ )
-    -   Added ``extension.sex``, the Extension updater. (Make sure you enable
-        it!)
+    -   Added ``extension.sex``, the Extension updater. (Make sure you enable it!)
 
 Bugs fixed:
 
@@ -53,14 +47,17 @@ Bugs fixed:
         (Resolves  `Bug #295 <http://bugs.villavu.com/view.php?id=295>`_ )
     -   Added Log10, even though we already had LogN.
     -   Extension updates, to the paster extension and a new extension: the
-      extension updater. (``extension.sex``)
+        extension updater. (``extension.sex``)
+    -   Fix memory leak in FindBitmapSpiralTolerance (leak only effective on
+        Linux)
 
 Installer notes:
 
     -   Removed Fonts/ from the installer. (They are installed on launch anyway)
     -   Removes Tests/PS from the installer.
     -   Security extension doesn't seem to compile at the moment.
-
+    -   Provided a default settings.xml which is both portable and enables the
+        ``extension.sex`` extension by default.
 
 WARNING and ERROR directives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,15 +74,18 @@ WARNING and ERROR directives
     {$ENDIF}
 
 
-.. _simba-0.97-rc5:
+
+Simba 0.97-rc6 (Development Release)
+------------------------------------
+
+Download: `Simba-0.97-rc6
+<http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
 
 Simba 0.97-rc5 (Development Release)
 ------------------------------------
 
 Download: `Simba-0.97-rc5
 <http://simba.villavu.com/bin/Release/0.97-rc5/SimbaInstaller.exe>`_.
-
-.. _simba-0.97-rc4:
 
 Simba 0.97-rc4 (Development Release)
 ------------------------------------
@@ -94,8 +94,10 @@ Download: `Simba-0.97-rc4
 <http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
 
 
-Simba 0.96 (Stable Release)
----------------------------
+.. _simba-0.96:
+
+Simba 0.96 (Old Stable Release)
+-------------------------------
 
 Download: `Simba-0.96
 <http://simba.villavu.com/bin/Release/0.96rc/SimbaInstaller.exe>`_.
