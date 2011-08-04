@@ -39,10 +39,10 @@ TODO. :-)
     <http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
     For more information see the :ref:`releases` page: :ref:`simba-0.97-rc6`.
 
-Simba 0.97 (Stable Release)
+Simba 0.97.1 (Stable Release)
 ---------------------------
 
-The current stable release is Simba 0.97.
+The current stable release is Simba 0.97.1.
 See :ref:`download`.
 
 .. _whatis:
