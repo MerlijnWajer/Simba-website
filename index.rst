@@ -31,7 +31,7 @@ News
 Simba 0.98-rc1 (Development Release)
 ------------------------------------
 
-TODO. :-)
+Coming within a few weeks.
 
 ..
     The latest development release of simba is *Simba-0.97-rc6*.
@@ -42,7 +42,8 @@ TODO. :-)
 Simba 0.97.1 (Stable Release)
 ---------------------------
 
-The current stable release is Simba 0.97.1.
+The current stable release is Simba 0.97.1, with the Simba version at 972.
+(Don't forget to update Simba after installing)
 See :ref:`download`.
 
 .. _whatis:
