@@ -53,7 +53,7 @@ Bugs fixed:
     -   Fix memory leak in FindBitmapSpiralTolerance (leak only effective on
         Linux)
     -   Settings constants `Bug #222 <http://bugs.villavu.com/view.php?id=222>`_ )
-    -   Added DeleteFile `Bug #309 <http://bugs.villavu.com/view.php?id=309`_ )
+    -   Added DeleteFile `Bug #309 <http://bugs.villavu.com/view.php?id=309>`_ )
     -   ExtPath in Extensions works again.
     -   Fixed CopyPath declaration.
     -   Fixed Security Extension. `Bug #313 <http://bugs.villavu.com/view.php?id=313>`_
