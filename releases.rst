@@ -9,10 +9,10 @@ See :ref:`download` to get it.
 Simba 0.97 (Stable Release)
 ---------------------------
 
-Current: Simba 0.97.1
+Current: Simba 0.97.3
 
-Download: `Simba-0.97.1
-<http://simba.villavu.com/bin/Release/0.97.1/SimbaInstaller.exe>`_.
+Download: `Simba-0.97.3
+<http://simba.villavu.com/bin/Release/0.97.3/SimbaInstaller.exe>`_.
 
 Changes since :ref:`simba-0.96` include (but are not limited to!):
 
@@ -52,6 +52,16 @@ Bugs fixed:
         extension updater. (``extension.sex``)
     -   Fix memory leak in FindBitmapSpiralTolerance (leak only effective on
         Linux)
+    -   Settings constants `Bug #222 <http://bugs.villavu.com/view.php?id=222>`_ )
+    -   Added DeleteFile `Bug #309 <http://bugs.villavu.com/view.php?id=309`_ )
+    -   ExtPath in Extensions works again.
+    -   Fixed CopyPath declaration.
+    -   Fixed Security Extension. `Bug #313 <http://bugs.villavu.com/view.php?id=313>`_
+    -   Workaround for `Bug #316. <http://bugs.villavu.com/view.php?id=316>`_
+        Causes a regression in codehints. (*Plugin functions are no longer shown*)
+    -   Documentation additions. (TPA, MML)
+    -   PointToBox parameters changed to be more clear.
+
 
 Installer notes:
 

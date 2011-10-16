@@ -39,10 +39,10 @@ Coming within a few weeks.
     <http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
     For more information see the :ref:`releases` page: :ref:`simba-0.97-rc6`.
 
-Simba 0.97.1 (Stable Release)
+Simba 0.97.3 (Stable Release)
 ---------------------------
 
-The current stable release is Simba 0.97.1, with the Simba version at 972.
+The current stable release is Simba 0.97.3, with the Simba version at 973.
 (Don't forget to update Simba after installing)
 See :ref:`download`.
 
@@ -125,9 +125,9 @@ however, unofficial nightly builds exist for both Linux and Windows `at MITB.com
 Previous releases
 -----------------
 
-Look at this link_ for older releases of Simba.
-
-.. _link: http://simba.villavu.com/bin/Release/
+Previous releases can be found on `villavu
+<http://simba.villavu.com/bin/Release`_ and `MITB
+<http://www.moparisthebest.com/jenkins/>`_.
 
 
 What's next?
