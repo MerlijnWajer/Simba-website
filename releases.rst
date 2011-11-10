@@ -3,7 +3,7 @@
 Simba Releases
 ==============
 
-The current stable release is Simba *0.97.1*.
+The current stable release is Simba *0.97.4*.
 See :ref:`download` to get it.
 
 Simba 0.97 (Stable Release)
