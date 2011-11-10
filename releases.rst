@@ -9,10 +9,10 @@ See :ref:`download` to get it.
 Simba 0.97 (Stable Release)
 ---------------------------
 
-Current: Simba 0.97.3
+Current: Simba 0.97.4
 
-Download: `Simba-0.97.3
-<http://simba.villavu.com/bin/Release/0.97.3/SimbaInstaller.exe>`_.
+Download: `Simba-0.97.4
+<http://simba.villavu.com/bin/Release/0.97.4/SimbaInstaller.exe>`_.
 
 Changes since :ref:`simba-0.96` include (but are not limited to!):
 
@@ -25,6 +25,10 @@ Changes since :ref:`simba-0.96` include (but are not limited to!):
 
 Bugs fixed:
 
+    -   Bug fixes to the DTM Editor Extension
+    -   Added Plugin Memory Manager.
+    -   SendKeys now supports keywait parameter.
+        (Resolves `Bug #324 <http://bugs.villavu.com/view.php?id=324>`_ )
     -   Memory clean-ups and fixes.
     -   Started work to make Simba more modular.
     -   Added FilterTPACustom
