@@ -3,11 +3,63 @@
 Simba Releases
 ==============
 
-The current stable release is Simba *0.97.4*.
+The current stable release is Simba *0.98.0*.
 See :ref:`download` to get it.
 
-Simba 0.97 (Stable Release)
+.. _simba-0.98:
+
+Simba 0.98 (Stable Release)
 ---------------------------
+
+Current: `Simba 0.98
+<http://simba.villavu.com/bin/Release/0.98/SimbaInstaller.exe>`_.
+
+Changes since :ref:`simba-0.97` include (but are not limited to):
+
+    Major changes:
+
+        -   TMFinder rewrite, including CTS support in all Find* functions.
+        -   CTS 3.
+        -   Updated Extensions.
+        -   Memory Manager Setting for Plugins.
+        -   Lape experimental support.
+        -   SendKeys now takes a wait parameter.
+        -   Exported SIMBA<VERSION> and SIMBAMAJOR<VERSION>.
+        -   Fixed WARNING/ERROR/LOADLIB directives inside conditionals.
+        -   Fixed a small bug in OCR loading.
+        -   Renamed ps_Tan to Tan.
+        -   Exported TMufasaBitmap.LoadFromTBitmap.
+        -   Added TWinControl.DoubleBuffered
+        -   DTM Editor fixes.
+        -   Removed Find*Optimised functions.
+        -   Various documentation changes.
+
+    Amongst bugs fixes are:
+
+        -   http://bugs.villavu.com/view.php?id=359
+        -   http://bugs.villavu.com/view.php?id=357
+        -   http://bugs.villavu.com/view.php?id=355
+        -   http://bugs.villavu.com/view.php?id=352
+        -   http://bugs.villavu.com/view.php?id=349
+        -   http://bugs.villavu.com/view.php?id=342
+        -   http://bugs.villavu.com/view.php?id=341
+        -   http://bugs.villavu.com/view.php?id=334
+        -   http://bugs.villavu.com/view.php?id=331
+        -   http://bugs.villavu.com/view.php?id=324
+        -   http://bugs.villavu.com/view.php?id=321
+        -   http://bugs.villavu.com/view.php?id=215
+        -   http://bugs.villavu.com/view.php?id=313
+        -   http://bugs.villavu.com/view.php?id=297
+        -   http://bugs.villavu.com/view.php?id=309
+        -   http://bugs.villavu.com/view.php?id=222
+
+    See http://bugs.villavu.com for more information on each bug.
+
+
+.. _simba-0.97:
+
+Simba 0.97 (Previous Stable Release)
+------------------------------------
 
 Current: Simba 0.97.4
 
@@ -88,27 +140,6 @@ WARNING and ERROR directives
     {$IFDEF WINDOWS}
     {$ERROR Windows is not supported} //This will stop the compilation
     {$ENDIF}
-
-
-
-Simba 0.97-rc6 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc6
-<http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
-
-Simba 0.97-rc5 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc5
-<http://simba.villavu.com/bin/Release/0.97-rc5/SimbaInstaller.exe>`_.
-
-Simba 0.97-rc4 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc4
-<http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
-
 
 .. _simba-0.96:
 
