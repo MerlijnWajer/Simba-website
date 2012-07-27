@@ -3,7 +3,7 @@
 Simba Releases
 ==============
 
-The current stable release is Simba *0.97.4*.
+The current stable release is Simba *0.98.0*.
 See :ref:`download` to get it.
 
 Simba 0.99 (Stable Release)
@@ -131,10 +131,8 @@ Bugs fixed:
 - http://bugs.villavu.com/view.php?id=222
 
 
-
 Simba 0.97 (Stable Release)
 ---------------------------
-
 
 Download: `Simba-0.97.4
 <http://simba.villavu.com/bin/Release/0.97.4/SimbaInstaller.exe>`_.
@@ -213,27 +211,6 @@ WARNING and ERROR directives
     {$IFDEF WINDOWS}
     {$ERROR Windows is not supported} //This will stop the compilation
     {$ENDIF}
-
-
-
-Simba 0.97-rc6 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc6
-<http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
-
-Simba 0.97-rc5 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc5
-<http://simba.villavu.com/bin/Release/0.97-rc5/SimbaInstaller.exe>`_.
-
-Simba 0.97-rc4 (Development Release)
-------------------------------------
-
-Download: `Simba-0.97-rc4
-<http://simba.villavu.com/bin/Release/0.97-rc4/SimbaInstaller.exe>`_.
-
 
 .. _simba-0.96:
 

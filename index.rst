@@ -33,12 +33,8 @@ Simba 1.0  (Development Release)
 
 News about Simba 1.0 will surface soon enough.
 
-
-..
-    The latest development release of simba is *Simba-0.97-rc6*.
-    It can be found here: `Simba -0.97-rc6
-    <http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
-    For more information see the :ref:`releases` page: :ref:`simba-0.97-rc6`.
+The current stable release is Simba 0.98, with the Simba version at 980.
+See :ref:`download`.
 
 Simba 0.99 (Stable Release)
 -----------------------------
