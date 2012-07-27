@@ -28,10 +28,11 @@ To download Simba and view screenshots see :ref:`download` and
 News
 ====
 
-Simba 0.98-rc1 (Development Release)
+Simba 1.0  (Development Release)
 ------------------------------------
 
-Coming within a few weeks.
+News about Simba 1.0 will surface soon enough.
+
 
 ..
     The latest development release of simba is *Simba-0.97-rc6*.
@@ -39,10 +40,10 @@ Coming within a few weeks.
     <http://simba.villavu.com/bin/Release/0.97-rc6/SimbaInstaller.exe>`_.
     For more information see the :ref:`releases` page: :ref:`simba-0.97-rc6`.
 
-Simba 0.97.4 (Stable Release)
+Simba 0.99 (Stable Release)
 -----------------------------
 
-The current stable release is Simba 0.97.4, with the Simba version at 974.
+The current stable release is Simba 0.99, with the Simba version at 991.
 See :ref:`download`.
 
 .. _whatis:
@@ -118,15 +119,14 @@ Linux
 -----
 
 Simba for Linux is still somewhat unstable and no direct release are offered,
-however, unofficial nightly builds exist for both Linux and Windows `at MITB.com
-<http://www.moparisthebest.com/downloads/simba/>`_.
+however, unofficial nightly builds exist for both Linux and Windows `at l0.lt
+<http://l0.lt/>`_.
 
 Previous releases
 -----------------
 
 Previous releases can be found on
-`villavu <http://simba.villavu.com/bin/Release>`_ and
-`MITB <http://www.moparisthebest.com/jenkins/>`_.
+`villavu <http://simba.villavu.com/bin/Release>`_..
 
 
 What's next?
