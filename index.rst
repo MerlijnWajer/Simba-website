@@ -33,7 +33,7 @@ Simba 1.0  (Development Release)
 
 News about Simba 1.0 will surface soon enough.
 
-The current stable release is Simba 0.98, with the Simba version at 980.
+The current stable release is Simba 0.99, with the Simba version at 991.
 See :ref:`download`.
 
 Simba 0.99 (Stable Release)
