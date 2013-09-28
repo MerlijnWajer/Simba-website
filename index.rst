@@ -121,9 +121,16 @@ Linux
 Linux support is broken as of Simba 1.0, but will return soon with subsequent
 releases!!!
 
+
+Development releases
+--------------------
+
 Simba for Linux is still somewhat unstable and no direct release are offered,
 however, unofficial nightly builds exist for both Linux and Windows `at l0.lt
 <http://l0.lt/>`_.
+
+At this page: http://l0.lt/builders/master, click the "Download latest build"
+link to get to the latest (unstable) Simba release.
 
 Previous releases
 -----------------
