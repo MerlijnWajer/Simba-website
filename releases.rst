@@ -3,13 +3,22 @@
 Simba Releases
 ==============
 
-The current stable release is Simba *0.98.0*.
+The current stable release is Simba *1.0*.
 See :ref:`download` to get it.
+
+Simba 1.0 (Stable Release)
+--------------------------
+
+Current: Simba 1.0
+
+Download: `Simba-1.0 <http://simba.villavu.com/bin/Release/1.0/SimbaInstaller.exe>`_.
+
+Changes since 0.99 include:
+
+-   TODO
 
 Simba 0.99 (Stable Release)
 ---------------------------
-
-Current: Simba 0.99
 
 Download: `Simba-0.99
 <http://simba.villavu.com/bin/Release/0.99/SimbaInstaller.exe>`_.

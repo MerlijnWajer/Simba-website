@@ -9,7 +9,7 @@ Welcome to the home of Simba!
 Welcome to the website of the Simba project.
 
 If you're new to Simba, you'll want to read :ref:`whatis`.
-To download Simba and view screenshots see :ref:`download` and
+To download Simba and view screenshots see :ref:`download-ref` and
 :ref:`screenshots`.
 
 .. forums, contact, bugs, documentation, source
@@ -18,7 +18,7 @@ To download Simba and view screenshots see :ref:`download` and
 
     -   `News`_
     -   :ref:`whatis`
-    -   :ref:`download`
+    -   :ref:`download-ref`
     -   :ref:`documentation-ref`
     -   :ref:`releases`
     -   :ref:`screenshots`
@@ -28,19 +28,21 @@ To download Simba and view screenshots see :ref:`download` and
 News
 ====
 
-Simba 1.0  (Development Release)
+Simba 1.1  (Development Release)
 ------------------------------------
 
-News about Simba 1.0 will surface soon enough.
+There is no large development released planned, but you can always get the
+latest builds for Simba, see :ref:`download-ref`.
 
-The current stable release is Simba 0.99, with the Simba version at 991.
-See :ref:`download`.
+Currently we will focus on bringing Simba to Windows 64 bit and back to Linux.
 
-Simba 0.99 (Stable Release)
+News about larger development plans will surface soon.
+
+Simba 1.0 (Stable Release)
 -----------------------------
 
-The current stable release is Simba 0.99, with the Simba version at 991.
-See :ref:`download`.
+The current stable release is Simba 1.0, with the Simba version at 1001.
+See :ref:`download-ref`.
 
 .. _whatis:
 
@@ -73,46 +75,51 @@ Simba can:
     *   Run pascal programs for you. If you're a bit creative you can have a lot
         of fun stuff with Simba, you could even make a game in it!
 
-and more. Start now by :ref:`download`.
+and more. Start now by :ref:`download-ref`.
 
 Currently Simba is still in its beta stages; this includes the documentation_.
 You will probably notice some parts of the documentation aren't finished or are just
 plain missing. Don't be fooled by the look of the documentation as it is
 identical to this homepage, in the future they may be merged.
 
+
 .. _documentation: http://docs.villavu.com/simba/
-.. _download:
+.. _download-ref:
 
 Downloading Simba
 =================
 
 Simba runs on a few platforms, but currently only runs well on Windows.
+After installing Simba, it is highly recommend that you look at the
+`Documentation`_! It contains information on how to install and setup Simba with
+
+See this guide: http://docs.villavu.com/simba/gettingstarted.html
 
 Windows
 -------
 
-Simba for Windows can be downloaded as installer_, a portable build will follow
-later. It will associate *.simba* files with Simba.
-
-
-.. _installer: http://simba.villavu.com/bin/Release/Current/SimbaInstaller.exe
+Simba for Windows can be downloaded as installer (`DOWNLOAD <http://simba.villavu.com/bin/Release/Current/SimbaInstaller.exe>`_),
+a portable build will follow soon. The installer will associate *.simba*
+files with Simba.
 
 Installation Notes
 ~~~~~~~~~~~~~~~~~~
-
 
 -   If you run Windows Vista or Windows 7, then you have to options; install Simba
     to *Program Files* and run it as administrator, or install it to a place that
     does not require ``Administrator`` permissions to write to - such as *My
     Documents* or just in a folder on your *Desktop*.
 
--   If you want to use SRL, see this `guide <http://docs.villavu.com/simba/gettingstarted.html#setting-up-srl-4-with-simba>`_.
 
--   For the script manager, see this `article <http://docs.villavu.com/simba/features/scriptmanager.html>`_ on the documentation_.
+
+.. -   For the script manager, see this `article <http://docs.villavu.com/simba/features/scriptmanager.html>`_ on the documentation_.
 
 
 Linux
 -----
+
+Linux support is broken as of Simba 1.0, but will return soon with subsequent
+releases!!!
 
 Simba for Linux is still somewhat unstable and no direct release are offered,
 however, unofficial nightly builds exist for both Linux and Windows `at l0.lt
