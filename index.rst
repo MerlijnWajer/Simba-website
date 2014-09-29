@@ -28,20 +28,10 @@ To download Simba and view screenshots see :ref:`download-ref` and
 News
 ====
 
-Simba 1.1  (Development Release)
+Simba 1.1  (Stable Release)
 ------------------------------------
 
-There is no large development released planned, but you can always get the
-latest builds for Simba, see :ref:`download-ref`.
-
-Currently we will focus on bringing Simba to Windows 64 bit and back to Linux.
-
-News about larger development plans will surface soon.
-
-Simba 1.0 (Stable Release)
------------------------------
-
-The current stable release is Simba 1.0, with the Simba version at 1001.
+The current stable release is Simba 1.1, with the Simba version at 1100.
 See :ref:`download-ref`.
 
 .. _whatis:
